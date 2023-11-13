@@ -11,7 +11,8 @@ SecurityIncident (Incidents created by Sentinel)
 AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 Architecture Before Hardening / Security Controls
 Architecture Diagram
-
+[
+](https://camo.githubusercontent.com/65b6c6b2def700ee1c63c63453c8387ba5630fb92288b3a4c010fb0936fbee91/68747470733a2f2f692e696d6775722e636f6d2f5a5778653033652e6a7067)
 Architecture After Hardening / Security Controls
 Architecture Diagram
 
