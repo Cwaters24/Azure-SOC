@@ -34,7 +34,7 @@ Linux Syslog Auth Failures
 Windows RDP/SMB Auth Failures
 
 Metrics Before Hardening / Security Controls
-The following table shows the metrics we measured in our insecure environment for 24 hours: Start Time 2023-03-15 17:04:29 Stop Time 2023-03-16 17:04:29
+The following table shows the metrics we measured in our insecure environment for 24 hours: Start Time 2023-11-12 17:04:29 Stop Time 2023-11-12 17:04:29
 
 Metric	Count
 SecurityEvent	19470
